@@ -1,6 +1,8 @@
 # CliTaskApp
 
-A cli based task app in java for submission in roadmap.sh
+A cli based task app in java for submission in roadmap.sh  
+Let's build a simple task tracker CLI application that allows users to manage their tasks. The application should support the following actions:  
+Visit : https://roadmap.sh/projects/task-tracker
 
 ## Actions
 
